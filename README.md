@@ -21,8 +21,6 @@ Meu nome é **Matheus José**, tenho **20 anos** e sou estudante de **Ciência d
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
