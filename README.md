@@ -19,16 +19,22 @@ Meu nome é **Matheus José**, tenho **20 anos** e sou estudante de **Ciência d
   <img alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
 
----
+### 📊 Estatísticas
 
-## 📈 GitHub Analytics
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheusjose04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjose04&layout=compact&langs_count=6&theme=tokyonight"/>
-  </div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-
-
----
