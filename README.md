@@ -24,8 +24,12 @@ Meu nome é **Matheus José**, tenho **20 anos** e sou estudante de **Ciência d
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusjose04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjose04&layout=compact&langs_count=6&theme=tokyonight"/>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusjose04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </div>
+  <div style="display: inline-block;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjose04&layout=compact&langs_count=6&theme=tokyonight"/>
+  </div>
 </p>
 
 ---
