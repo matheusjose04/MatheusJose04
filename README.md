@@ -1,9 +1,13 @@
 # Olá, eu sou o Matheus José! 👨‍💻
 
+#
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Desenvolvedor%20FullStack%20%28em%20aprendizado%29-%2300A1FF?style=for-the-badge&logo=javascript&logoColor=white" alt="Desenvolvedor FullStack (em aprendizado)">
   <img src="https://img.shields.io/badge/-Cursando%20Ciência%20da%20Computação-%2300A1FF?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Cursando Ciência da Computação">
 </p>
+
+#
 
 🎯 **Quem sou eu:**  
 Meu nome é **Matheus José**, tenho **20 anos** e sou estudante de **Ciência da Computação**. Atualmente, estou no processo de me tornar um **Desenvolvedor FullStack (em aprendizado)**. Tenho grande interesse por **tecnologia**, **programação** e **desenvolvimento de soluções criativas** para problemas. Estou aprendendo várias tecnologias e frameworks para me tornar um desenvolvedor completo.
@@ -19,24 +23,24 @@ Meu nome é **Matheus José**, tenho **20 anos** e sou estudante de **Ciência d
   <img alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
 
-### 📊 Estatísticas
+#
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusjose04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div style="text-align: center;" align="center">
+  <h3 style="color: #A9D1D9;">* GitHub Stats *</h3>
+  <br>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <!-- GitHub Stats Image -->
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheusjose04&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=#A9D1D9&text_color=#A9D1D9&border_radius=3&border_color=444444&icon_color=#A9D1D9&theme=default" alt="GitHub stats" style="max-width: 400px;">
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjose04&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+  <!-- Top Languages Image -->
+<a href="https://github.com/matheusjose04/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusjose04&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=A9D1D9&hide=html,scss,less&bg_color=000000&text_color=A9D1D9&border_radius=3&border_color=444444&count_private=true" alt="Most Used Languages" style="max-width: 400px;">
+</a>
+
+  </div>
+</div>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusjose04/matheusjose04/output/github-contribution-grid-snake-dark.svg">
