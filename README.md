@@ -33,10 +33,7 @@ Meu nome é **Matheus José**, tenho **20 anos** e sou estudante de **Ciência d
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheusjose04&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=#A9D1D9&text_color=#A9D1D9&border_radius=3&border_color=444444&icon_color=#A9D1D9&theme=default" alt="GitHub stats" style="max-width: 400px;">
 
   <!-- Top Languages Image -->
-<a href="https://github.com/matheusjose04/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusjose04&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=A9D1D9&hide=html,scss,less&bg_color=000000&text_color=A9D1D9&border_radius=3&border_color=444444&count_private=true" alt="Most Used Languages" style="max-width: 400px;">
-</a>
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusjose04&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&count_private=true&langs_count=5&show_icons=true" alt="Top Langs" style="max-width: 400px;">
   </div>
 </div>
 
