@@ -42,13 +42,8 @@ Meu nome é **Matheus José**, tenho **20 anos** e sou estudante de **Ciência d
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/MatheusJose04/MatheusJose04/blob/output/github-snake-dark.svg)
+  ![snake gif]([https://github.com/MatheusJose04/MatheusJose04/blob/output/github-snake-dark.svg](https://github.com/matheusjose04/MatheusJose04/blob/main/.github/workflows/cobrinha.yml))
 </div>
 
 
 
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
