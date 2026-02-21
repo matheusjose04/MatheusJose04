@@ -59,8 +59,5 @@ Estou evoluindo para me tornar um **Desenvolvedor FullStack**, focado em desenvo
   <img src="https://img.shields.io/badge/LinkedIn-00A1FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:matheusjosede972@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-00A1FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </div>
