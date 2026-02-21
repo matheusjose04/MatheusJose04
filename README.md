@@ -1,16 +1,31 @@
-# Olá, eu sou o Matheus José! 👨‍💻
+# 👋 Olá, eu sou o Matheus José
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Desenvolvedor%20FullStack%20(em%20aprendizado)-00A1FF?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cursando%20Ciência%20da%20Computação-00A1FF?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-</p>
+<div align="center">
+
+💻 Desenvolvedor FullStack em formação  
+🎓 Estudante de Ciência da Computação  
+🚀 Focado em evolução constante  
+
+</div>
 
 ---
 
-## 🎯 Quem sou eu
+## 🧠 Sobre mim
 
-Meu nome é **Matheus José**, tenho **20 anos** e sou estudante de **Ciência da Computação**.  
-Estou evoluindo para me tornar um **Desenvolvedor FullStack**, focado em desenvolvimento web e boas práticas de programação.
+Sou estudante de **Ciência da Computação**, apaixonado por tecnologia e desenvolvimento de software.  
+Estou construindo minha jornada como **Desenvolvedor FullStack**, com foco em desenvolvimento web, back-end com Python e banco de dados.
+
+Busco sempre evoluir minhas habilidades técnicas e criar soluções eficientes e organizadas.
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,git,github,mysql" />
+
+</div>
 
 ---
 
@@ -18,9 +33,9 @@ Estou evoluindo para me tornar um **Desenvolvedor FullStack**, focado em desenvo
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusJose04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusJose04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusJose04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusJose04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -28,24 +43,7 @@ Estou evoluindo para me tornar um **Desenvolvedor FullStack**, focado em desenvo
 
 <div align="center">
 
-  <img width="60%" src="https://streak-stats.demolab.com?user=MatheusJose04&theme=tokyonight&hide_border=true&background=0d1117" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusJose04&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
-
-</div>
-
----
-## 💻 Tech Stack ⚡
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,git,github,mysql" />
+<img width="60%" src="https://streak-stats.demolab.com?user=MatheusJose04&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -56,8 +54,11 @@ Estou evoluindo para me tornar um **Desenvolvedor FullStack**, focado em desenvo
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mattheus-jose-370810250/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-00A1FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
+<a href="mailto:matheusjosede972@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
 </div>
