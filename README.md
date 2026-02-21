@@ -1,42 +1,66 @@
 # Olá, eu sou o Matheus José! 👨‍💻
 
-#
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Desenvolvedor%20FullStack%20%28em%20aprendizado%29-%2300A1FF?style=for-the-badge&logo=javascript&logoColor=white" alt="Desenvolvedor FullStack (em aprendizado)">
-  <img src="https://img.shields.io/badge/-Cursando%20Ciência%20da%20Computação-%2300A1FF?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Cursando Ciência da Computação">
+  <img src="https://img.shields.io/badge/-Desenvolvedor%20FullStack%20(em%20aprendizado)-00A1FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cursando%20Ciência%20da%20Computação-00A1FF?style=for-the-badge&logo=googleclassroom&logoColor=white" />
 </p>
 
-#
+---
 
-🎯 **Quem sou eu:**  
-Meu nome é **Matheus José**, tenho **20 anos** e sou estudante de **Ciência da Computação**. Atualmente, estou no processo de me tornar um **Desenvolvedor FullStack (em aprendizado)**. Tenho grande interesse por **tecnologia**, **programação** e **desenvolvimento de soluções criativas** para problemas. Estou aprendendo várias tecnologias e frameworks para me tornar um desenvolvedor completo.
+## 🎯 Quem sou eu
 
-<!-- Stats -->
+Meu nome é **Matheus José**, tenho **20 anos** e sou estudante de **Ciência da Computação**.  
+Estou evoluindo para me tornar um **Desenvolvedor FullStack**, focado em desenvolvimento web e boas práticas de programação.
+
+---
+
+## 📊 Estatísticas GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusJose04&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusJose04&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJose04&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusJose04&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusJose04&layout=compact&theme=github_dark&hide_border=true" />
+
 </div>
 
+<br>
 
-<!-- Tech Stack -->
 <div align="center">
-  
+
+  <img width="60%" src="https://streak-stats.demolab.com?user=MatheusJose04&theme=github-dark&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusJose04&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
 ## 💻 Tech Stack ⚡
 
-</div>
-
-
-
-<!-- Social connections -->
 <div align="center">
 
-## 🌐 Connect with Me 🍬
-
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,git,github,mysql" />
 
 </div>
 
+---
 
+## 🌐 Conecte-se comigo
 
+<div align="center">
 
+<a href="https://www.linkedin.com/in/mattheus-jose-370810250/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00A1FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:matheusjosede972@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-00A1FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
