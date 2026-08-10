@@ -1,4 +1,4 @@
-<img src="./assets/header.svg?v=4" width="100%" alt="Matheus José - AI, Dev and Cybersecurity">
+<img src="[./assets/header.svg?v=4](https://raw.githubusercontent.com/matheusjose04/MatheusJose04/d13d2c3d86dfb4be7f0e761450d97e951d24f6bc/assets/header.svg)" width="100%" alt="Matheus José - AI, Dev and Cybersecurity">
 
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge&labelColor=0d1117&color=00ff88" alt="System online">
