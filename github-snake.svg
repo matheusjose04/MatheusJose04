@@ -1,0 +1,6 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="120" rx="16" fill="#ffffff"/>
+<rect x="1" y="1" width="998" height="118" rx="15" fill="none" stroke="#d0d7de"/>
+<text x="500" y="54" text-anchor="middle" font-family="monospace" font-size="18" fill="#24292f">CONTRIBUTION SNAKE // INITIALIZING</text>
+<text x="500" y="82" text-anchor="middle" font-family="monospace" font-size="13" fill="#57606a">Run the Generate Contribution Snake workflow once.</text>
+</svg>
