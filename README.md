@@ -170,7 +170,7 @@ matheus@cyberlab:~$ ./status.sh
 ## `> activity --graph`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusjose04&amp;bg_color=0d1117&amp;color=e6edf3&amp;line=00ff88&amp;point=bc13fe&amp;area=true&amp;area_color=00ff88&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub activity graph">
+  <img src="./assets/activity.svg" width="100%" alt="Local GitHub contribution activity graph">
 </p>
 
 ---
