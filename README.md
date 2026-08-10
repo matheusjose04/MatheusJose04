@@ -1,99 +1,154 @@
-<img src="./assets/header.png" width="100%" alt="Matheus José - AI, Dev and Cybersecurity">
-
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge&labelColor=0d1117&color=00ff88" alt="System online">
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-bc13fe?style=for-the-badge&labelColor=0d1117&color=bc13fe" alt="Focus cybersecurity">
-  <img src="https://img.shields.io/badge/OPEN%20TO-IT%20OPPORTUNITIES-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff" alt="Open to IT opportunities">
+  <picture>
+    <source srcset="./assets/header.svg" type="image/svg+xml">
+    <img src="./assets/header.png" width="100%" alt="Matheus José - AI, Dev and Cybersecurity">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=00FF88&center=true&vCenter=true&width=900&lines=%3E%20INITIALIZING%20PROFILE...;%3E%20AI%20%2B%20DEV%20%2B%20CYBERSECURITY;%3E%20LEARNING.%20BUILDING.%20SECURING.;%3E%20EXPLORING%20TECHNOLOGY%20END-TO-END." alt="Typing animation">
+  <a href="https://github.com/matheusjose04">
+    <img src="https://img.shields.io/badge/GitHub-matheusjose04-00ff88?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=0d1117" alt="GitHub">
+  </a>
+  <a href="https://github.com/matheusjose04?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-open-00d4ff?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=0d1117" alt="Repositories">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-bc13fe?style=for-the-badge&amp;labelColor=0d1117" alt="Cybersecurity focus">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20IT-00ff88?style=for-the-badge&amp;labelColor=0d1117" alt="Open to IT opportunities">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=21&amp;duration=2600&amp;pause=700&amp;color=00FF88&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%3E%20learning%20how%20systems%20are%20built;%3E%20understanding%20how%20systems%20fail;%3E%20building%20tools%20with%20code%20and%20automation;%3E%20studying%20cybersecurity%20with%20ethics%20and%20discipline" alt="Typing animation">
 </p>
 
 ---
 
-## `> whoami`
+## `> about --profile`
+
+Sou estudante de Ciência da Computação com foco principal em **Cybersecurity**. Também estudo desenvolvimento, Linux, automação, infraestrutura e inteligência artificial para entender tecnologia de ponta a ponta.
 
 ```ini
-Name       : Matheus José
-Role       : Computer Science Student
-Main Focus : Cybersecurity
-Exploring  : Development • AI • Linux • Infrastructure • Automation • Security
-Status     : Open to opportunities across IT
+name        = Matheus José
+role        = Computer Science Student
+main_focus  = Cybersecurity
+learning    = Development, AI, Linux, Infrastructure, Automation
+mindset     = Learn -> Build -> Test -> Secure
+status      = Open to opportunities across IT
 ```
 
-Sou estudante de Ciência da Computação.
+Conhecimento de segurança aqui é tratado com responsabilidade: estudo, laboratório, autorização e uso ético.
 
-Meu foco principal é Cybersecurity, mas também estudo e desenvolvo projetos relacionados a desenvolvimento, Linux, automação, infraestrutura, IA e outras áreas de TI.
+---
 
-Quero compreender tecnologia de ponta a ponta:
+## `> current_focus --scan`
 
-```text
-[01] como sistemas são construídos
-[02] como funcionam
-[03] como falham
-[04] como podem ser protegidos
-```
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Security mindset</h3>
+      <p>Fundamentos de cibersegurança, redes, Linux, boas práticas, análise de risco e desenvolvimento mais seguro.</p>
+    </td>
+    <td width="50%">
+      <h3>Development practice</h3>
+      <p>Projetos com Python, JavaScript, TypeScript, Java/Kotlin e tecnologias web para transformar estudo em código real.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Automation and infrastructure</h3>
+      <p>Shell, Git, Docker, ambiente Linux, scripts e organização de fluxos para ganhar velocidade sem perder controle.</p>
+    </td>
+    <td width="50%">
+      <h3>AI and applied learning</h3>
+      <p>Uso de IA como apoio para pesquisa, prototipação, revisão de código e criação de ferramentas úteis.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## `> stack --load`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,kotlin,html,css,react,nextjs&theme=dark" alt="Development stack icons">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,kotlin,html,css,react,nextjs,nodejs&amp;theme=dark" alt="Development stack icons">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,docker,vscode,postgres&theme=dark" alt="Tools and environment icons">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,docker,postgres,vscode&amp;theme=dark" alt="Tools and environment icons">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Learning-00ff88?style=flat-square&amp;labelColor=0d1117" alt="Security learning">
+  <img src="https://img.shields.io/badge/Linux-Active-00d4ff?style=flat-square&amp;labelColor=0d1117" alt="Linux active">
+  <img src="https://img.shields.io/badge/Automation-Building-bc13fe?style=flat-square&amp;labelColor=0d1117" alt="Automation building">
+  <img src="https://img.shields.io/badge/Open%20Source-Practicing-e6edf3?style=flat-square&amp;labelColor=0d1117" alt="Open source practicing">
 </p>
 
 ---
 
-## `> cyber_lab --status`
+## `> lab_status --run`
 
 ```bash
 matheus@cyberlab:~$ ./status.sh
 
 [+] Cybersecurity fundamentals ........ ACTIVE
-[+] Linux ............................. ACTIVE
-[+] Networking ........................ LEARNING
+[+] Linux and terminal ................ ACTIVE
+[+] Networking concepts ............... LEARNING
 [+] Secure development ................ BUILDING
-[+] Backend / Web ..................... BUILDING
-[+] Automation ........................ EXPLORING
-[+] Infrastructure .................... EXPLORING
-[+] Artificial Intelligence ........... EXPLORING
-[+] Open-source practice .............. ACTIVE
+[+] Backend and web ................... BUILDING
+[+] Automation scripts ................ EXPLORING
+[+] Infrastructure basics ............. EXPLORING
+[+] Artificial intelligence ........... EXPLORING
+[+] Open-source workflow .............. ACTIVE
 
 [SYSTEM] continuous_learning=true
 ```
-
-Cybersecurity knowledge is applied for ethical, authorized and educational purposes.
 
 ---
 
 ## `> projects --featured`
 
-<p align="center">
-  <a href="https://github.com/matheusjose04/sistema-gerenciamento-tarefas">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=matheusjose04&repo=sistema-gerenciamento-tarefas&theme=transparent&hide_border=true&title_color=00ff88&text_color=e6edf3&icon_color=bc13fe&bg_color=0d1117" alt="sistema-gerenciamento-tarefas">
-  </a>
-  <a href="https://github.com/matheusjose04/desafio-felipao">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=matheusjose04&repo=desafio-felipao&theme=transparent&hide_border=true&title_color=00ff88&text_color=e6edf3&icon_color=bc13fe&bg_color=0d1117" alt="desafio-felipao">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matheusjose04/desafio-2-do-felipao">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=matheusjose04&repo=desafio-2-do-felipao&theme=transparent&hide_border=true&title_color=00ff88&text_color=e6edf3&icon_color=bc13fe&bg_color=0d1117" alt="desafio-2-do-felipao">
-  </a>
-  <a href="https://github.com/matheusjose04/desafio-felipao-3">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=matheusjose04&repo=desafio-felipao-3&theme=transparent&hide_border=true&title_color=00ff88&text_color=e6edf3&icon_color=bc13fe&bg_color=0d1117" alt="desafio-felipao-3">
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/matheusjose04/sistema-gerenciamento-tarefas">sistema-gerenciamento-tarefas</a></h3>
+      <p>Sistema de gerenciamento de tarefas em Python, focado em organização, lógica de aplicação e prática de estruturação.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&amp;logo=python&amp;logoColor=00d4ff" alt="Python">
+        <img src="https://img.shields.io/badge/Project-Task%20Management-00ff88?style=flat-square&amp;labelColor=0d1117" alt="Task management">
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/matheusjose04/desafio-felipao-3">desafio-felipao-3</a></h3>
+      <p>Prática com JavaScript para consolidar lógica, regras, entrada de dados e resolução progressiva de problemas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Challenge-Logic-bc13fe?style=flat-square&amp;labelColor=0d1117" alt="Logic challenge">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/matheusjose04/desafio-2-do-felipao">desafio-2-do-felipao</a></h3>
+      <p>Exercício de fundamentos em JavaScript, reforçando controle de fluxo, condições e organização de soluções.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Practice-Algorithms-00d4ff?style=flat-square&amp;labelColor=0d1117" alt="Algorithms">
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/matheusjose04/desafio-felipao">desafio-felipao</a></h3>
+      <p>Desafio da DIO para treinar lógica de programação, tomada de decisão e implementação de regras simples.</p>
+      <p>
+        <img src="https://img.shields.io/badge/DIO-Challenge-00ff88?style=flat-square&amp;labelColor=0d1117" alt="DIO challenge">
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/matheusjose04?tab=repositories">
-    <img src="https://img.shields.io/badge/%3E%20VIEW%20ALL%20REPOSITORIES-0d1117?style=for-the-badge&labelColor=00ff88&color=0d1117" alt="View all repositories">
+    <img src="https://img.shields.io/badge/%3E%20VIEW%20ALL%20REPOSITORIES-0d1117?style=for-the-badge&amp;labelColor=00ff88&amp;color=0d1117" alt="View all repositories">
   </a>
 </p>
 
@@ -102,12 +157,12 @@ Cybersecurity knowledge is applied for ethical, authorized and educational purpo
 ## `> github --stats`
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=matheusjose04&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&text_color=e6edf3&icon_color=bc13fe&bg_color=0d1117" alt="GitHub stats">
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheusjose04&layout=compact&theme=transparent&hide_border=true&title_color=00ff88&text_color=e6edf3&bg_color=0d1117" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusjose04&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00ff88&amp;icon_color=bc13fe&amp;text_color=e6edf3&amp;bg_color=0d1117" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjose04&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00ff88&amp;text_color=e6edf3&amp;bg_color=0d1117" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusjose04&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=BC13FE&currStreakLabel=00FF88&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=matheusjose04&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=00FF88&amp;fire=BC13FE&amp;currStreakLabel=00FF88&amp;sideLabels=E6EDF3&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;dates=8B949E" alt="GitHub streak">
 </p>
 
 ---
@@ -115,7 +170,7 @@ Cybersecurity knowledge is applied for ethical, authorized and educational purpo
 ## `> activity --graph`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusjose04&bg_color=0d1117&color=e6edf3&line=00ff88&point=bc13fe&area=true&area_color=00ff88&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusjose04&amp;bg_color=0d1117&amp;color=e6edf3&amp;line=00ff88&amp;point=bc13fe&amp;area=true&amp;area_color=00ff88&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub activity graph">
 </p>
 
 ---
@@ -136,17 +191,12 @@ Cybersecurity knowledge is applied for ethical, authorized and educational purpo
 
 <p align="center">
   <a href="https://github.com/matheusjose04">
-    <img src="https://img.shields.io/badge/GitHub-matheusjose04-00ff88?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117&color=00ff88" alt="GitHub profile">
+    <img src="https://img.shields.io/badge/GitHub-matheusjose04-00ff88?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=0d1117" alt="GitHub profile">
   </a>
   <a href="https://github.com/matheusjose04?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-open-bc13fe?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117&color=bc13fe" alt="GitHub repositories">
+    <img src="https://img.shields.io/badge/Repositories-open-bc13fe?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=0d1117" alt="GitHub repositories">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheusjose04&style=for-the-badge&label=PROFILE%20VIEWS&color=00ff88" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=matheusjose04&amp;style=for-the-badge&amp;label=PROFILE%20VIEWS&amp;color=00ff88" alt="Profile views">
 </p>
 
 ```text

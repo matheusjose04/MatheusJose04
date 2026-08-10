@@ -1,90 +1,55 @@
-<svg
-  width="1200"
-  height="300"
-  viewBox="0 0 1200 300"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
-  role="img"
-  aria-labelledby="title desc"
->
-  <title id="title">Matheus José - AI, DEV and Cybersecurity</title>
-  <desc id="desc">
-    GitHub profile banner for Matheus José, Computer Science student,
-    interested in development, artificial intelligence and learning cybersecurity.
-  </desc>
-
-  <!-- ====================================================== -->
-  <!-- DEFINITIONS                                             -->
-  <!-- ====================================================== -->
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Matheus José - AI, Dev and Cybersecurity</title>
+  <desc id="desc">Animated GitHub profile header with terminal, cyber security and developer interface elements.</desc>
 
   <defs>
-
-    <!-- Main background -->
-    <linearGradient id="backgroundGradient" x1="0" y1="0" x2="1200" y2="300">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="55%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#071A17"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050814"/>
+      <stop offset="0.48" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#101a2a"/>
     </linearGradient>
 
-    <!-- Main accent -->
-    <linearGradient id="accentGradient" x1="70" y1="0" x2="700" y2="0">
-      <stop offset="0%" stop-color="#00F5A0"/>
-      <stop offset="55%" stop-color="#34D399"/>
-      <stop offset="100%" stop-color="#7C3AED"/>
+    <linearGradient id="titleGradient" x1="80" y1="0" x2="650" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ff88">
+        <animate attributeName="stop-color" values="#00ff88;#00d4ff;#bc13fe;#00ff88" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.52" stop-color="#00d4ff">
+        <animate attributeName="stop-color" values="#00d4ff;#bc13fe;#00ff88;#00d4ff" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#bc13fe">
+        <animate attributeName="stop-color" values="#bc13fe;#00ff88;#00d4ff;#bc13fe" dur="7s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
 
-    <!-- HUD accent -->
-    <linearGradient id="hudGradient" x1="900" y1="80" x2="1120" y2="230">
-      <stop offset="0%" stop-color="#00F5A0"/>
-      <stop offset="100%" stop-color="#7C3AED"/>
+    <linearGradient id="scan" x1="0" y1="0" x2="180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ff88" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00ff88" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#bc13fe" stop-opacity="0"/>
     </linearGradient>
 
-    <!-- Soft green glow -->
-    <radialGradient id="greenGlow">
-      <stop offset="0%" stop-color="#00F5A0" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#00F5A0" stop-opacity="0"/>
+    <linearGradient id="lineGradient" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ff88" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#00ff88" stop-opacity="0.8"/>
+      <stop offset="0.52" stop-color="#00d4ff" stop-opacity="0.72"/>
+      <stop offset="0.82" stop-color="#bc13fe" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#bc13fe" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="greenGlow" cx="0.25" cy="0.72" r="0.7">
+      <stop offset="0" stop-color="#00ff88" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00ff88" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Soft purple glow -->
-    <radialGradient id="purpleGlow">
-      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.14"/>
-      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    <radialGradient id="purpleGlow" cx="0.85" cy="0.32" r="0.65">
+      <stop offset="0" stop-color="#bc13fe" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#bc13fe" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Grid -->
-    <pattern
-      id="grid"
-      width="32"
-      height="32"
-      patternUnits="userSpaceOnUse"
-    >
-      <path
-        d="M 32 0 L 0 0 0 32"
-        fill="none"
-        stroke="#00F5A0"
-        stroke-opacity="0.045"
-        stroke-width="1"
-      />
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8b949e" stroke-opacity="0.08" stroke-width="1"/>
     </pattern>
 
-    <!-- Dots -->
-    <pattern
-      id="dots"
-      width="18"
-      height="18"
-      patternUnits="userSpaceOnUse"
-    >
-      <circle
-        cx="2"
-        cy="2"
-        r="1"
-        fill="#8B949E"
-        opacity="0.08"
-      />
-    </pattern>
-
-    <!-- Soft glow -->
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -92,693 +57,126 @@
       </feMerge>
     </filter>
 
-    <!-- Small glow -->
-    <filter id="smallGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.45"/>
     </filter>
 
-    <!-- Scanner gradient -->
-    <linearGradient id="scannerGradient" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00F5A0" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00F5A0" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#00F5A0" stop-opacity="0"/>
-    </linearGradient>
-
-    <!-- Clip everything inside the panel -->
     <clipPath id="panelClip">
-      <rect x="22" y="18" width="1156" height="264" rx="18"/>
+      <rect x="48" y="38" width="1104" height="244" rx="24"/>
     </clipPath>
-
   </defs>
 
-  <!-- ====================================================== -->
-  <!-- BACKGROUND                                              -->
-  <!-- ====================================================== -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#greenGlow)"/>
+  <rect width="1200" height="320" fill="url(#purpleGlow)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
 
-  <rect
-    width="1200"
-    height="300"
-    rx="24"
-    fill="url(#backgroundGradient)"
-  />
+  <path d="M0 82H1200" stroke="url(#lineGradient)" stroke-width="2">
+    <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 260H1200" stroke="url(#lineGradient)" stroke-width="2" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" from="0" to="240" dur="6s" repeatCount="indefinite"/>
+  </path>
 
-  <!-- Background glows -->
-  <circle
-    cx="135"
-    cy="235"
-    r="260"
-    fill="url(#greenGlow)"
-  />
-
-  <circle
-    cx="1090"
-    cy="80"
-    r="250"
-    fill="url(#purpleGlow)"
-  />
-
-  <!-- Grid -->
-  <rect
-    width="1200"
-    height="300"
-    rx="24"
-    fill="url(#grid)"
-  />
-
-  <!-- Dots -->
-  <rect
-    width="1200"
-    height="300"
-    rx="24"
-    fill="url(#dots)"
-    opacity="0.42"
-  />
-
-  <!-- ====================================================== -->
-  <!-- OUTER PANEL                                             -->
-  <!-- ====================================================== -->
-
-  <rect
-    x="22"
-    y="18"
-    width="1156"
-    height="264"
-    rx="18"
-    fill="#0D1117"
-    fill-opacity="0.42"
-    stroke="#30363D"
-    stroke-width="1.5"
-  />
-
-  <!-- Top terminal bar -->
-  <rect
-    x="22"
-    y="18"
-    width="1156"
-    height="42"
-    rx="18"
-    fill="#0D1117"
-    fill-opacity="0.88"
-  />
-
-  <!-- Fix lower corners of terminal bar -->
-  <rect
-    x="22"
-    y="43"
-    width="1156"
-    height="17"
-    fill="#0D1117"
-    fill-opacity="0.88"
-  />
-
-  <line
-    x1="22"
-    y1="60"
-    x2="1178"
-    y2="60"
-    stroke="#30363D"
-    stroke-width="1"
-  />
-
-  <!-- ====================================================== -->
-  <!-- TERMINAL TOP BAR                                        -->
-  <!-- ====================================================== -->
-
-  <!-- Mac/Linux style dots -->
-  <circle cx="50" cy="39" r="5.5" fill="#FF5F56"/>
-  <circle cx="69" cy="39" r="5.5" fill="#FFBD2E"/>
-  <circle cx="88" cy="39" r="5.5" fill="#27C93F"/>
-
-  <text
-    x="112"
-    y="44"
-    fill="#8B949E"
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="13"
-  >
-    matheus@cyberlab: ~/profile
-  </text>
-
-  <!-- Top right status -->
-  <circle
-    cx="1040"
-    cy="39"
-    r="4"
-    fill="#00F5A0"
-    filter="url(#smallGlow)"
-  >
-    <animate
-      attributeName="opacity"
-      values="0.45;1;0.45"
-      dur="2s"
-      repeatCount="indefinite"
-    />
-  </circle>
-
-  <text
-    x="1052"
-    y="44"
-    fill="#8B949E"
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="12"
-  >
-    SYSTEM // ONLINE
-  </text>
-
-  <!-- ====================================================== -->
-  <!-- LEFT CONTENT                                            -->
-  <!-- ====================================================== -->
-
-  <!-- Small command -->
-  <text
-    x="72"
-    y="105"
-    fill="#00F5A0"
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="14"
-    font-weight="600"
-  >
-    &gt; SYSTEM INITIALIZED
-  </text>
-
-  <!-- Small decorative line -->
-  <rect
-    x="72"
-    y="118"
-    width="58"
-    height="2"
-    rx="1"
-    fill="#00F5A0"
-  />
-
-  <rect
-    x="136"
-    y="118"
-    width="24"
-    height="2"
-    rx="1"
-    fill="#7C3AED"
-    opacity="0.8"
-  />
-
-  <!-- Main name -->
-  <text
-    x="70"
-    y="169"
-    fill="url(#accentGradient)"
-    font-family="'Segoe UI', Arial, sans-serif"
-    font-size="48"
-    font-weight="700"
-    letter-spacing="1"
-  >
-    MATHEUS JOSÉ
-  </text>
-
-  <!-- Main subtitle -->
-  <text
-    x="72"
-    y="201"
-    fill="#E6EDF3"
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="17"
-    font-weight="600"
-    letter-spacing="2"
-  >
-    AI // DEV // CYBERSECURITY
-  </text>
-
-  <!-- Secondary subtitle -->
-  <text
-    x="72"
-    y="227"
-    fill="#8B949E"
-    font-family="'Segoe UI', Arial, sans-serif"
-    font-size="13"
-    letter-spacing="0.5"
-  >
-    Computer Science • Technology • Security
-  </text>
-
-  <!-- Decorative command block -->
-  <rect
-    x="72"
-    y="242"
-    width="560"
-    height="1"
-    fill="#30363D"
-  />
-
-  <text
-    x="72"
-    y="260"
-    fill="#57606A"
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="10.5"
-  >
-    learn();
-  </text>
-
-  <text
-    x="124"
-    y="260"
-    fill="#00F5A0"
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="10.5"
-  >
-    build();
-  </text>
-
-  <text
-    x="177"
-    y="260"
-    fill="#7C3AED"
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="10.5"
-  >
-    test();
-  </text>
-
-  <text
-    x="221"
-    y="260"
-    fill="#8B949E"
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="10.5"
-  >
-    secure();
-  </text>
-
-  <!-- ====================================================== -->
-  <!-- DIVIDER                                                 -->
-  <!-- ====================================================== -->
-
-  <line
-    x1="805"
-    y1="82"
-    x2="805"
-    y2="247"
-    stroke="#30363D"
-    stroke-width="1"
-    stroke-dasharray="4 7"
-  />
-
-  <!-- ====================================================== -->
-  <!-- RIGHT HUD                                               -->
-  <!-- ====================================================== -->
-
-  <g transform="translate(965 155)">
-
-    <!-- Outer faint circle -->
-    <circle
-      cx="0"
-      cy="0"
-      r="79"
-      fill="#020617"
-      fill-opacity="0.35"
-      stroke="#30363D"
-      stroke-width="1"
-    />
-
-    <!-- Outer rotating segmented ring -->
-    <g>
-      <circle
-        cx="0"
-        cy="0"
-        r="68"
-        fill="none"
-        stroke="#00F5A0"
-        stroke-opacity="0.55"
-        stroke-width="2"
-        stroke-dasharray="58 28 12 22"
-        stroke-linecap="round"
-      />
-
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="0 0 0"
-        to="360 0 0"
-        dur="18s"
-        repeatCount="indefinite"
-      />
-    </g>
-
-    <!-- Purple reverse ring -->
-    <g>
-      <circle
-        cx="0"
-        cy="0"
-        r="54"
-        fill="none"
-        stroke="#7C3AED"
-        stroke-opacity="0.7"
-        stroke-width="2"
-        stroke-dasharray="22 16 6 14"
-        stroke-linecap="round"
-      />
-
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="360 0 0"
-        to="0 0 0"
-        dur="13s"
-        repeatCount="indefinite"
-      />
-    </g>
-
-    <!-- Inner circle -->
-    <circle
-      cx="0"
-      cy="0"
-      r="37"
-      fill="none"
-      stroke="#00F5A0"
-      stroke-opacity="0.28"
-      stroke-width="1.5"
-    />
-
-    <!-- Radar lines -->
-    <line
-      x1="-34"
-      y1="0"
-      x2="34"
-      y2="0"
-      stroke="#00F5A0"
-      stroke-opacity="0.14"
-      stroke-width="1"
-    />
-
-    <line
-      x1="0"
-      y1="-34"
-      x2="0"
-      y2="34"
-      stroke="#00F5A0"
-      stroke-opacity="0.14"
-      stroke-width="1"
-    />
-
-    <!-- Small diagonal marks -->
-    <line
-      x1="-22"
-      y1="-22"
-      x2="-14"
-      y2="-14"
-      stroke="#7C3AED"
-      stroke-opacity="0.65"
-      stroke-width="1.5"
-    />
-
-    <line
-      x1="22"
-      y1="-22"
-      x2="14"
-      y2="-14"
-      stroke="#7C3AED"
-      stroke-opacity="0.65"
-      stroke-width="1.5"
-    />
-
-    <line
-      x1="-22"
-      y1="22"
-      x2="-14"
-      y2="14"
-      stroke="#00F5A0"
-      stroke-opacity="0.65"
-      stroke-width="1.5"
-    />
-
-    <line
-      x1="22"
-      y1="22"
-      x2="14"
-      y2="14"
-      stroke="#00F5A0"
-      stroke-opacity="0.65"
-      stroke-width="1.5"
-    />
-
-    <!-- Center core -->
-    <circle
-      cx="0"
-      cy="0"
-      r="14"
-      fill="#00F5A0"
-      fill-opacity="0.07"
-      stroke="#00F5A0"
-      stroke-opacity="0.5"
-      stroke-width="1.5"
-    />
-
-    <circle
-      cx="0"
-      cy="0"
-      r="5"
-      fill="#00F5A0"
-      filter="url(#smallGlow)"
-    >
-      <animate
-        attributeName="r"
-        values="4.5;6;4.5"
-        dur="2.2s"
-        repeatCount="indefinite"
-      />
-
-      <animate
-        attributeName="opacity"
-        values="0.65;1;0.65"
-        dur="2.2s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <!-- Orbiting point -->
-    <g>
-      <circle
-        cx="0"
-        cy="-54"
-        r="3.5"
-        fill="#7C3AED"
-        filter="url(#smallGlow)"
-      />
-
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="0 0 0"
-        to="360 0 0"
-        dur="7s"
-        repeatCount="indefinite"
-      />
-    </g>
-
+  <g opacity="0.18" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#00ff88">
+    <text x="42" y="122">01001001 01010100</text>
+    <text x="884" y="74">secure_build=true</text>
+    <text x="912" y="286">trace: clean</text>
+    <text x="42" y="286">status: online</text>
+    <animate attributeName="opacity" values="0.10;0.26;0.10" dur="4.5s" repeatCount="indefinite"/>
   </g>
 
-  <!-- ====================================================== -->
-  <!-- RIGHT STATUS PANEL                                      -->
-  <!-- ====================================================== -->
+  <g filter="url(#softShadow)">
+    <rect x="48" y="38" width="1104" height="244" rx="24" fill="#0d1117" fill-opacity="0.78" stroke="#263241" stroke-width="1.5"/>
+    <rect x="48" y="38" width="1104" height="42" rx="24" fill="#06090f" fill-opacity="0.9"/>
+    <rect x="48" y="62" width="1104" height="18" fill="#06090f" fill-opacity="0.9"/>
+    <line x1="48" y1="80" x2="1152" y2="80" stroke="#263241"/>
 
-  <g
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="10.5"
-  >
+    <circle cx="76" cy="59" r="6" fill="#ff5f56"/>
+    <circle cx="98" cy="59" r="6" fill="#ffbd2e"/>
+    <circle cx="120" cy="59" r="6" fill="#27c93f"/>
 
-    <!-- System -->
-    <circle
-      cx="1080"
-      cy="102"
-      r="3"
-      fill="#00F5A0"
-    />
-
-    <text
-      x="1090"
-      y="106"
-      fill="#8B949E"
-    >
-      SYSTEM
-    </text>
-
-    <text
-      x="1147"
-      y="106"
-      fill="#00F5A0"
-      text-anchor="end"
-    >
-      ONLINE
-    </text>
-
-    <!-- Development -->
-    <circle
-      cx="1080"
-      cy="127"
-      r="3"
-      fill="#00F5A0"
-    />
-
-    <text
-      x="1090"
-      y="131"
-      fill="#8B949E"
-    >
-      DEV
-    </text>
-
-    <text
-      x="1147"
-      y="131"
-      fill="#E6EDF3"
-      text-anchor="end"
-    >
-      ACTIVE
-    </text>
-
-    <!-- Security -->
-    <circle
-      cx="1080"
-      cy="152"
-      r="3"
-      fill="#7C3AED"
-    >
-      <animate
-        attributeName="opacity"
-        values="0.45;1;0.45"
-        dur="2.5s"
-        repeatCount="indefinite"
-      />
+    <text x="146" y="64" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#8b949e">matheus@cyberlab: ~/profile</text>
+    <circle cx="1016" cy="59" r="4" fill="#00ff88" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/>
     </circle>
-
-    <text
-      x="1090"
-      y="156"
-      fill="#8B949E"
-    >
-      SECURITY
-    </text>
-
-    <text
-      x="1147"
-      y="156"
-      fill="#7C3AED"
-      text-anchor="end"
-    >
-      LEARNING
-    </text>
-
-    <!-- AI -->
-    <circle
-      cx="1080"
-      cy="177"
-      r="3"
-      fill="#00F5A0"
-    />
-
-    <text
-      x="1090"
-      y="181"
-      fill="#8B949E"
-    >
-      AI
-    </text>
-
-    <text
-      x="1147"
-      y="181"
-      fill="#E6EDF3"
-      text-anchor="end"
-    >
-      READY
-    </text>
-
+    <text x="1030" y="64" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#8b949e">SYSTEM ONLINE</text>
   </g>
 
-  <!-- ====================================================== -->
-  <!-- SMALL RIGHT TERMINAL DETAILS                            -->
-  <!-- ====================================================== -->
-
-  <text
-    x="841"
-    y="91"
-    fill="#57606A"
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="9"
-  >
-    MODULE_03
-  </text>
-
-  <text
-    x="841"
-    y="226"
-    fill="#57606A"
-    font-family="Consolas, 'Courier New', monospace"
-    font-size="9"
-  >
-    STATUS_MONITOR
-  </text>
-
-  <!-- ====================================================== -->
-  <!-- SCANNER                                                 -->
-  <!-- ====================================================== -->
-
-  <g clip-path="url(#panelClip)" opacity="0.7">
-    <rect
-      x="-250"
-      y="61"
-      width="170"
-      height="200"
-      fill="url(#scannerGradient)"
-      transform="skewX(-12)"
-    >
-      <animate
-        attributeName="x"
-        from="-260"
-        to="1350"
-        dur="8s"
-        repeatCount="indefinite"
-      />
+  <g clip-path="url(#panelClip)">
+    <rect x="-240" y="82" width="180" height="200" fill="url(#scan)" transform="skewX(-12)">
+      <animate attributeName="x" values="-240;1240" dur="6.5s" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <!-- ====================================================== -->
-  <!-- CORNER DECORATIONS                                      -->
-  <!-- ====================================================== -->
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="82" y="122" font-size="15" font-weight="700" fill="#00ff88">&gt; boot_profile --mode=public</text>
+    <rect x="82" y="134" width="72" height="3" rx="1.5" fill="#00ff88"/>
+    <rect x="164" y="134" width="34" height="3" rx="1.5" fill="#bc13fe"/>
+  </g>
 
-  <!-- Left bottom -->
-  <path
-    d="M42 253 V263 H52"
-    stroke="#00F5A0"
-    stroke-opacity="0.4"
-    stroke-width="1.5"
-  />
+  <g>
+    <text x="80" y="178" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="58" font-weight="800" fill="url(#titleGradient)">MATHEUS JOSÉ</text>
+    <text x="84" y="214" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="700" fill="#e6edf3">AI • DEV • CYBERSECURITY</text>
+    <text x="84" y="242" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" fill="#8b949e">Computer Science student building, automating and securing systems</text>
+  </g>
 
-  <!-- Right bottom -->
-  <path
-    d="M1158 253 V263 H1148"
-    stroke="#7C3AED"
-    stroke-opacity="0.4"
-    stroke-width="1.5"
-  />
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">
+    <rect x="84" y="258" width="74" height="24" rx="12" fill="#00ff88" fill-opacity="0.12" stroke="#00ff88" stroke-opacity="0.5"/>
+    <text x="121" y="274" text-anchor="middle" fill="#00ff88">PYTHON</text>
+    <rect x="168" y="258" width="98" height="24" rx="12" fill="#00d4ff" fill-opacity="0.10" stroke="#00d4ff" stroke-opacity="0.48"/>
+    <text x="217" y="274" text-anchor="middle" fill="#00d4ff">JAVASCRIPT</text>
+    <rect x="276" y="258" width="62" height="24" rx="12" fill="#bc13fe" fill-opacity="0.12" stroke="#bc13fe" stroke-opacity="0.5"/>
+    <text x="307" y="274" text-anchor="middle" fill="#bc13fe">LINUX</text>
+    <rect x="348" y="258" width="88" height="24" rx="12" fill="#00ff88" fill-opacity="0.12" stroke="#00ff88" stroke-opacity="0.5"/>
+    <text x="392" y="274" text-anchor="middle" fill="#00ff88">SECURITY</text>
+    <rect x="446" y="258" width="42" height="24" rx="12" fill="#00d4ff" fill-opacity="0.10" stroke="#00d4ff" stroke-opacity="0.48"/>
+    <text x="467" y="274" text-anchor="middle" fill="#00d4ff">AI</text>
+  </g>
 
-  <!-- Left top -->
-  <path
-    d="M42 79 V69 H52"
-    stroke="#00F5A0"
-    stroke-opacity="0.3"
-    stroke-width="1.5"
-  />
+  <g transform="translate(950 174)">
+    <circle r="78" fill="#06090f" fill-opacity="0.45" stroke="#263241"/>
+    <g>
+      <circle r="66" fill="none" stroke="#00ff88" stroke-width="2" stroke-linecap="round" stroke-dasharray="50 26 10 18" opacity="0.72"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="16s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle r="50" fill="none" stroke="#bc13fe" stroke-width="2" stroke-linecap="round" stroke-dasharray="24 16 8 16" opacity="0.78"/>
+      <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="11s" repeatCount="indefinite"/>
+    </g>
+    <line x1="-36" y1="0" x2="36" y2="0" stroke="#00ff88" stroke-opacity="0.2"/>
+    <line x1="0" y1="-36" x2="0" y2="36" stroke="#00ff88" stroke-opacity="0.2"/>
+    <circle r="15" fill="#00ff88" fill-opacity="0.08" stroke="#00ff88" stroke-opacity="0.55"/>
+    <circle r="5" fill="#00ff88" filter="url(#glow)">
+      <animate attributeName="r" values="4;7;4" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <g>
+      <circle cx="0" cy="-50" r="4" fill="#bc13fe" filter="url(#glow)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="7s" repeatCount="indefinite"/>
+    </g>
+  </g>
 
-  <!-- Right top -->
-  <path
-    d="M1158 79 V69 H1148"
-    stroke="#7C3AED"
-    stroke-opacity="0.3"
-    stroke-width="1.5"
-  />
+  <g font-family="Consolas, 'Courier New', monospace" font-size="11">
+    <text x="1048" y="128" fill="#8b949e">FOCUS</text>
+    <text x="1132" y="128" text-anchor="end" fill="#00ff88">CYBER</text>
+    <text x="1048" y="154" fill="#8b949e">BUILD</text>
+    <text x="1132" y="154" text-anchor="end" fill="#e6edf3">ACTIVE</text>
+    <text x="1048" y="180" fill="#8b949e">LEARN</text>
+    <text x="1132" y="180" text-anchor="end" fill="#00d4ff">DAILY</text>
+    <text x="1048" y="206" fill="#8b949e">MODE</text>
+    <text x="1132" y="206" text-anchor="end" fill="#bc13fe">OPEN</text>
+  </g>
 
+  <g fill="none" stroke-linecap="round" stroke-width="2" opacity="0.82">
+    <path d="M54 104H130L154 128H250" stroke="#00ff88" stroke-dasharray="8 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M652 104H760L784 128H844" stroke="#00d4ff" stroke-dasharray="8 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M636 262H734L762 238H838" stroke="#bc13fe" stroke-dasharray="8 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="72" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </g>
 </svg>
