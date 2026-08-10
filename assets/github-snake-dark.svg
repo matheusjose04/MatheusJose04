@@ -1,0 +1,27 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub contribution snake placeholder dark</title>
+  <desc id="desc">Dark placeholder shown until GitHub Actions generates the contribution snake.</desc>
+  <defs>
+    <linearGradient id="line" x1="120" y1="0" x2="1080" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ff88"/>
+      <stop offset=".48" stop-color="#00d4ff"/>
+      <stop offset="1" stop-color="#bc13fe"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="70%">
+      <stop offset="0" stop-color="#00ff88" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#163344" stroke-width="1" opacity=".55"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="240" rx="18" fill="#0d1117"/>
+  <rect width="1200" height="240" rx="18" fill="url(#glow)"/>
+  <rect width="1200" height="240" rx="18" fill="url(#grid)"/>
+  <path d="M140 128 C260 58 350 202 474 128 S684 56 808 128 1000 198 1080 104" stroke="url(#line)" stroke-width="10" stroke-linecap="round" stroke-dasharray="22 18"/>
+  <circle cx="1080" cy="104" r="16" fill="#00ff88"/>
+  <circle cx="1086" cy="99" r="3" fill="#0d1117"/>
+  <circle cx="1086" cy="109" r="3" fill="#0d1117"/>
+  <text x="600" y="60" text-anchor="middle" fill="#e6edf3" font-size="20" font-family="Consolas, monospace" font-weight="700">CONTRIBUTION SNAKE INITIALIZING</text>
+  <text x="600" y="190" text-anchor="middle" fill="#8b949e" font-size="14" font-family="Consolas, monospace">GitHub Actions will replace this placeholder after the first run.</text>
+</svg>
