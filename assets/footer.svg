@@ -1,0 +1,44 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Connection established footer</title>
+  <desc id="desc">Terminal-style footer for the GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050814"/>
+      <stop offset="0.5" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#101a2a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ff88"/>
+      <stop offset="0.55" stop-color="#00d4ff"/>
+      <stop offset="1" stop-color="#bc13fe"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8b949e" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="180" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="180" rx="18" fill="url(#grid)"/>
+  <rect x="32" y="28" width="1136" height="124" rx="18" fill="#0d1117" fill-opacity="0.74" stroke="#263241" stroke-width="1.4"/>
+  <path d="M58 58H1142" stroke="url(#accent)" stroke-width="2" opacity="0.78"/>
+
+  <g font-family="Consolas, 'Courier New', monospace" text-anchor="middle">
+    <text x="600" y="90" fill="#00ff88" font-size="18" font-weight="700" filter="url(#glow)">CONNECTION ESTABLISHED</text>
+    <text x="600" y="116" fill="#e6edf3" font-size="15" font-weight="700">AI / DEV / CYBERSECURITY / IT</text>
+    <text x="600" y="138" fill="#8b949e" font-size="12">LEARN / BUILD / TEST / SECURE</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-width="2">
+    <path d="M58 78V58H78" stroke="#00ff88" opacity="0.65"/>
+    <path d="M1142 78V58H1122" stroke="#bc13fe" opacity="0.65"/>
+    <path d="M58 122V142H78" stroke="#00d4ff" opacity="0.55"/>
+    <path d="M1142 122V142H1122" stroke="#00ff88" opacity="0.55"/>
+  </g>
+</svg>

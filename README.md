@@ -157,12 +157,7 @@ matheus@cyberlab:~$ ./status.sh
 ## `> github --stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusjose04&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00ff88&amp;icon_color=bc13fe&amp;text_color=e6edf3&amp;bg_color=0d1117" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjose04&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00ff88&amp;text_color=e6edf3&amp;bg_color=0d1117" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusjose04&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=00FF88&amp;fire=BC13FE&amp;currStreakLabel=00FF88&amp;sideLabels=E6EDF3&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;dates=8B949E" alt="GitHub streak">
+  <img src="./assets/github-stats.svg" width="100%" alt="Local GitHub stats and top languages">
 </p>
 
 ---
@@ -199,12 +194,6 @@ matheus@cyberlab:~$ ./status.sh
   <img src="https://komarev.com/ghpvc/?username=matheusjose04&amp;style=for-the-badge&amp;label=PROFILE%20VIEWS&amp;color=00ff88" alt="Profile views">
 </p>
 
-```text
-╔══════════════════════════════════════════════════╗
-║              CONNECTION ESTABLISHED             ║
-║                                                  ║
-║          AI • DEV • CYBERSECURITY • IT          ║
-║                                                  ║
-║        LEARN // BUILD // TEST // SECURE         ║
-╚══════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Connection established footer">
+</p>
