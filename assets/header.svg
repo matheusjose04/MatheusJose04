@@ -1,6 +1,6 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Matheus José - AI, Dev and Cybersecurity</title>
-  <desc id="desc">Animated GitHub profile header with terminal, cyber security and developer interface elements.</desc>
+  <title id="title">Matheus José - Fullstack Development &amp; Cybersecurity</title>
+  <desc id="desc">Animated GitHub profile header with terminal, fullstack development and cybersecurity interface elements.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
@@ -117,8 +117,8 @@
 
   <g>
     <text x="80" y="178" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="58" font-weight="800" fill="url(#titleGradient)">MATHEUS JOSÉ</text>
-    <text x="84" y="214" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="700" fill="#e6edf3">AI • DEV • CYBERSECURITY</text>
-    <text x="84" y="242" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" fill="#8b949e">Computer Science student building, automating and securing systems</text>
+    <text x="84" y="214" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="700" fill="#e6edf3">FULLSTACK DEV • CYBERSECURITY</text>
+    <text x="84" y="242" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" fill="#8b949e">Computer Science student building full-stack products and securing systems</text>
   </g>
 
   <g font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">
@@ -130,8 +130,8 @@
     <text x="307" y="274" text-anchor="middle" fill="#bc13fe">LINUX</text>
     <rect x="348" y="258" width="88" height="24" rx="12" fill="#00ff88" fill-opacity="0.12" stroke="#00ff88" stroke-opacity="0.5"/>
     <text x="392" y="274" text-anchor="middle" fill="#00ff88">SECURITY</text>
-    <rect x="446" y="258" width="42" height="24" rx="12" fill="#00d4ff" fill-opacity="0.10" stroke="#00d4ff" stroke-opacity="0.48"/>
-    <text x="467" y="274" text-anchor="middle" fill="#00d4ff">AI</text>
+    <rect x="446" y="258" width="70" height="24" rx="12" fill="#00d4ff" fill-opacity="0.10" stroke="#00d4ff" stroke-opacity="0.48"/>
+    <text x="481" y="274" text-anchor="middle" fill="#00d4ff">REACT</text>
   </g>
 
   <g transform="translate(950 174)">
