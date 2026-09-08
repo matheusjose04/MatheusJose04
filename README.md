@@ -44,12 +44,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=matheusjose04&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00FF88&amp;icon_color=00D4FF&amp;text_color=E6EDF3&amp;bg_color=0D1117&amp;card_width=500">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=matheusjose04&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;title_color=1F6FEB&amp;icon_color=8250DF&amp;text_color=24292F&amp;bg_color=FFFFFF&amp;card_width=500" alt="Matheus' GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjose04&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=00FF88&amp;text_color=E6EDF3&amp;bg_color=0D1117&amp;card_width=500">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjose04&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=1F6FEB&amp;text_color=24292F&amp;bg_color=FFFFFF&amp;card_width=500" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusjose04/MatheusJose04/projects/stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusjose04/MatheusJose04/projects/stats-light.svg">
+    <img width="100%" alt="Matheus' GitHub stats (self-hosted, updates every 6h)" src="https://raw.githubusercontent.com/matheusjose04/MatheusJose04/projects/stats.svg">
   </picture>
 </p>
 

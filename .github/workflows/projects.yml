@@ -8,6 +8,7 @@ on:
       - "logos/**"
       - ".github/scripts/generate_projects.py"
       - ".github/scripts/fetch_data.py"
+      - ".github/scripts/generate_stats.py"
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
@@ -32,6 +33,11 @@ jobs:
         run: |
           mkdir -p out
           python3 .github/scripts/generate_projects.py merged.json out
+
+      - name: Generate stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/generate_stats.py out
 
       - name: Push to projects branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
