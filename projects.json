@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Task Manager",
+    "repo": "matheusjose04/sistema-gerenciamento-tarefas",
+    "description": "Sistema de gerenciamento de tarefas em Python, focado em organizacao e logica de aplicacao.",
+    "tags": ["Python", "CLI"]
+  },
+  {
+    "name": "Desafio Felipao 3",
+    "repo": "matheusjose04/desafio-felipao-3",
+    "description": "Pratica com JavaScript para consolidar logica, regras e resolucao progressiva de problemas.",
+    "tags": ["JavaScript", "Logic"]
+  },
+  {
+    "name": "Desafio 2 do Felipao",
+    "repo": "matheusjose04/desafio-2-do-felipao",
+    "description": "Exercicio de fundamentos em JavaScript reforcando controle de fluxo e condicoes.",
+    "tags": ["JavaScript", "Algorithms"]
+  },
+  {
+    "name": "Desafio Felipao",
+    "repo": "matheusjose04/desafio-felipao",
+    "description": "Desafio da DIO para treinar logica de programacao e tomada de decisao.",
+    "tags": ["JavaScript", "DIO"]
+  }
+]

@@ -65,44 +65,13 @@
 
 ## `> projects --featured`
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/matheusjose04/sistema-gerenciamento-tarefas">sistema-gerenciamento-tarefas</a></h3>
-      <p>Sistema de gerenciamento de tarefas em Python, focado em organização, lógica de aplicação e prática de estruturação.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&amp;logo=python&amp;logoColor=00d4ff" alt="Python">
-        <img src="https://img.shields.io/badge/Project-Task%20Management-00ff88?style=flat-square&amp;labelColor=0d1117" alt="Task management">
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/matheusjose04/desafio-felipao-3">desafio-felipao-3</a></h3>
-      <p>Prática com JavaScript para consolidar lógica, regras, entrada de dados e resolução progressiva de problemas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Challenge-Logic-bc13fe?style=flat-square&amp;labelColor=0d1117" alt="Logic challenge">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/matheusjose04/desafio-2-do-felipao">desafio-2-do-felipao</a></h3>
-      <p>Exercício de fundamentos em JavaScript, reforçando controle de fluxo, condições e organização de soluções.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Practice-Algorithms-00d4ff?style=flat-square&amp;labelColor=0d1117" alt="Algorithms">
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/matheusjose04/desafio-felipao">desafio-felipao</a></h3>
-      <p>Desafio da DIO para treinar lógica de programação, tomada de decisão e implementação de regras simples.</p>
-      <p>
-        <img src="https://img.shields.io/badge/DIO-Challenge-00ff88?style=flat-square&amp;labelColor=0d1117" alt="DIO challenge">
-        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;logo=javascript&amp;logoColor=f7df1e" alt="JavaScript">
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusjose04/MatheusJose04/projects/projects.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusjose04/MatheusJose04/projects/projects-light.svg">
+    <img alt="Live projects panel" width="100%" src="https://raw.githubusercontent.com/matheusjose04/MatheusJose04/projects/projects.svg">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://github.com/matheusjose04?tab=repositories">
